@@ -32,8 +32,8 @@ This assignment should prove that a student is able to:
 
 ## Standard requirements
 
-- [ ] Fork the project to your github account
-- [ ] Clone the project to your computer
+- [x] Fork the project to your github account
+- [x] Clone the project to your computer
 - [ ] Open the project in VSCode with `code <cloned_repo_folder_name>`
 - [ ] **This Assignment is NOT tested. You can use all the desired creativity!**
 - [ ] All the tasks of the "Specific requirements" section MUST be solved
@@ -47,7 +47,7 @@ This assignment should prove that a student is able to:
 
 ## Specific requirements
 
-- [ ] Check out the sample image of a completed assignment to see the expected outcome in /assets/images/. You don't need to imitate it exactly, feel free to use any desired letter styles.
+- [x] Check out the sample image of a completed assignment to see the expected outcome in /assets/images/. You don't need to imitate it exactly, feel free to use any desired letter styles.
 - [ ] You should have at least 10 different styles for the letters. A "unique" style means a distinct combination of:
   - Font size
   - Font color
@@ -55,7 +55,7 @@ This assignment should prove that a student is able to:
   - Font decoration
   - Font transformation
   - Font family
-- [ ] Set the font size using fixed pixel values.
+- [x] Set the font size using fixed pixel values.
 - [ ] Use at least two color systems of your choice for setting the color (hex, rgb, hsl, etc.).
 - [ ] Ensure each font weight value from the given list is used at least once:
   - Bold
